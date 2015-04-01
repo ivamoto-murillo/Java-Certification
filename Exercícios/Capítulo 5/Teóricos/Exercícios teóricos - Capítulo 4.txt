@@ -1,0 +1,10 @@
+1  - D 			   - CORRETA!
+2  - D 			   - CORRETA!
+3  - E 			   - CORRETA!
+4  - G 			   - CORRETA!
+5  - DESNECESSÁRIA
+6  - F 			   - ERRADA! -> C é a correta, pois "new Twisty().go()" é compilável.
+7  - A 			   - CORRETA!
+8  - C 			   - CORRETA!
+9  - C e G		   - ERRADA! -> NOCEGAGEM!!!
+10 - D 			   - CORRETA!
