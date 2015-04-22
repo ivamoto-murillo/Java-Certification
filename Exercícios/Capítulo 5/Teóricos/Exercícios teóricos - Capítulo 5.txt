@@ -1,0 +1,16 @@
+1  - B			 - ERRADA!  -> B e F são corretas, pois duas compilações ocorrerão, mas nenhum aviso será produzido pelo compilador.
+2  - B			 - CORRETA!
+3  - C e D		 - CORRETA!
+4  - C, D e E	 - CORRETA!
+5  - A, C, D e F - ERRADA!  -> A, D e F estão corretas.
+6  - E			 - CORRETA!
+7  - C e D		 - ERRADA!  -> C está correta, pois em D há uma sobrecarga e não uma sobrescrita.
+8  - A			 - ERRADA!  -> D está correta.
+9  - D e F		 - CORRETA!
+10 - D			 - CORRETA!
+11 - E			 - ERRADA!  -> Erro foi proveniente da não escrita correta do exercício.
+12 - C			 - CORRETA!
+13 - B e C		 - ERRADA!  -> B e E estão corretas.
+14 - A			 - ERRADA!  -> E está correta.
+15 - B			 - ERRADA!  -> D está correta.
+16 - C e D		 - CORRETA!
